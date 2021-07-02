@@ -12,3 +12,18 @@
   display: flex;
   justify-content: space-between;
 }
+
+.main-bg {
+  background: rgba(0, 151, 167, 255);
+  margin: 3px;
+}
+
+.text-white {
+  text-align: center;
+  color: white;
+}
+
+.margin-a {
+  margin-bottom: 20px;
+  /* margin-right: 40px; */
+}
